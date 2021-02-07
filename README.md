@@ -1,6 +1,6 @@
 # Toxic_Text_Classification
 
-The kernel is great for getting in-depth info about the text data. I have worked on understanding line to line and overall approach of the author. The git contains Hashtags of the meaning of every line of code written by jagan. By working on this I got a grasp on understanding the approach and tuning data for problem solving.
+The kernel is great for getting in-depth info about the text data. By working on this I got a hold on understanding the approach and tuning data for problem solving.
 
 ## The Data
 Discussing things you care about can be difficult. The threat of abuse and harassment online means that many people stop expressing themselves and give up on seeking different opinions. Platforms struggle to effectively facilitate conversations, leading many communities to limit or completely shut down user comments.
@@ -205,8 +205,7 @@ Some more experimental features.
 
 -   Avg length of each word
 
-![](media/image9.png){width="5.087014435695538in"
-height="2.928293963254593in"}
+![](media/image9.png)
 
 Long sentences or more words do not seem to be a significant indicator
 of toxicity.
@@ -215,8 +214,7 @@ Chart desc: Violin plot is an alternative to the traditional box plot.
 The inner markings show the percentiles while the width of the
 \"violin\" shows the volume of comments at that level/instance.
 
-![](media/image10.png){width="4.56088801399825in"
-height="3.77540135608049in"}
+![](media/image10.png)
 
 ### **Word count VS unique word count:**
 
@@ -287,11 +285,7 @@ which contains both text from train and test dataset to ensure that the
 vocabulary that we create does not missout on the words that are unique
 to testset
 
-![](media/image11.png){width="4.080501968503937in" height="5.999242125984252in"}
-================================================================================
-
-![](media/image12.png){width="3.4667694663167103in" height="5.06417104111986in"}
-================================================================================
+![](media/image11.png)
 
 
 References:
